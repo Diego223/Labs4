@@ -76,7 +76,7 @@ void main()
     fragColor = vec4(4,3,0, 1.0);
 }
 """
-fragment_shader3 = """
+fragment_shader4 = """
 #version 450
 layout (location = 0) out vec4 fragColor;
 in vec3 outColor;
